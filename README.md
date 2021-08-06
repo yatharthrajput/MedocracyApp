@@ -1,25 +1,6 @@
-## **Medicines App**
+## **Medocracy App**
 
 #### A Flutter application, which you can save medicines and app will be send remind when you have to take it :bell:
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-### App branches :
-
-| Branch Name | Feature | Link |
-| :---:         |     :---:      |         :---: |
-| master   | notifications, details, setup app     | [master](https://github.com/F-Y-E-F/Medicine-App-In-Flutter)   |
-| feature/setup_database   | setup local sqflite database  | [feature/setup_database](https://github.com/F-Y-E-F/Medicine-App-In-Flutter/tree/feature/setup_database)   |
-| feature/routes   | setup navigation     | [feature/routes](https://github.com/F-Y-E-F/Medicine-App-In-Flutter/tree/feature/routes)   |
-| feature/home_screen   | create home screen ui    | [feature/home_screen](https://github.com/F-Y-E-F/Medicine-App-In-Flutter/tree/feature/home_screen)   |
-| feature/add_pill_screen  | create add pill screen ui    | [feature/add_pill_screen](https://github.com/F-Y-E-F/Medicine-App-In-Flutter/tree/feature/add_pill_screen)   |
 
 
 ### Used Techology:
