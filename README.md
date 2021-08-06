@@ -15,10 +15,6 @@
 - flutter animated text kit :memo: [link](https://pub.dev/packages/animated_text_kit)
 - flutter animated widgets :eye_speech_bubble: [link](https://pub.dev/packages/animated_widgets)
 
-### App features :
-- [x] Save medicines in local database
-- [x] Show notification in correct time
-- [x] Delete medicines
 
 
 
