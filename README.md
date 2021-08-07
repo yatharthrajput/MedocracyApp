@@ -21,7 +21,7 @@
 ### Screenshots :
 
 <img src= "scr/welcome_screen.png"  width="40%">
-<img src= "scr/add_pills_screen.png"  width="40%">
+
 
 
 
