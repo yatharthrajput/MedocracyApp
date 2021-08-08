@@ -20,7 +20,7 @@
 
 ### Screenshots :
 
-<img src= "scr/welcome_screen.png"  width="40%">
+
 
 
 
