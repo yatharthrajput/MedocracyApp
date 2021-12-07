@@ -6,7 +6,7 @@
 ### Used Techology:
 
 - flutter cupertino icons :iphone: <br>[cupertino_icons](https://pub.dev/packages/cupertino_icons)
-- flutter intl :calendar: [link](https://pub.dev/packages/intl)
+- flutter intl :calendar:<> [link](https://pub.dev/packages/intl)
 - flutter sqflite :clipboard: [link](https://pub.dev/packages/sqflite)
 - flutter auto size text :memo: [link](https://pub.dev/packages/auto_size_text)
 - flutter path :rocket: [link](https://pub.dev/packages/path)
